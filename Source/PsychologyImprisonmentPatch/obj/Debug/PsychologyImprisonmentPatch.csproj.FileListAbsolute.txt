@@ -1,0 +1,11 @@
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\PsychologyImprisonmentPatch.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\PsychologyImprisonmentPatch.pdb
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\0Harmony.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\Assembly-CSharp.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\Psychology.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\bin\Debug\UnityEngine.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\obj\Debug\PsychologyImprisonmentPatch.csprojResolveAssemblyReference.cache
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\obj\Debug\PsychologyImprisonmentPatch.csproj.CoreCompileInputs.cache
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\obj\Debug\PsychologyImprisonmentPatch.csproj.CopyComplete
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\obj\Debug\PsychologyImprisonmentPatch.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\B19\Psychology Imprisonment Patch\Source\PsychologyImprisonmentPatch\PsychologyImprisonmentPatch\obj\Debug\PsychologyImprisonmentPatch.pdb
