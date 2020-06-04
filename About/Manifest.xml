@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+	<identifier>Psychology Imprisonment Patch</identifier>
+	<version>1.1.1</version>
+	<dependencies>
+		<li>HugsLib</li>
+		<li>Harmony</li>
+		<li>Psychology</li>
+	</dependencies>
+	<incompatibleWith />
+	<loadAfter>
+		<li>HugsLib</li>
+		<li>Harmony</li>
+		<li>Psychology</li>
+	</loadAfter>
+	<suggests>
+	</suggests>
+	<manifestUri>https://raw.githubusercontent.com/thakyZ/psychologyimprisonmentpatch/master/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/thakyZ/psychologyimprisonmentpatch/releases</downloadUri>
+</Manifest>
