@@ -3,15 +3,13 @@
 	<identifier>Psychology Imprisonment Patch</identifier>
 	<version>1.1.1</version>
 	<dependencies>
-		<li>HugsLib</li>
 		<li>Harmony</li>
-		<li>Psychology</li>
+		<li>Community.Psychology.UnofficialUpdate</li>
 	</dependencies>
 	<incompatibleWith />
 	<loadAfter>
-		<li>HugsLib</li>
 		<li>Harmony</li>
-		<li>Psychology</li>
+		<li>Community.Psychology.UnofficialUpdate</li>
 	</loadAfter>
 	<suggests>
 	</suggests>
