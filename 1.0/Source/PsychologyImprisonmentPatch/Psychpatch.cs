@@ -8,12 +8,12 @@ using Harmony;
 using System.Reflection;
 using Psychology;
 
-namespace PsychologyImprisonmentPatch
+namespace NekoBoiNick.PsychologyImprisonmentPatch
 {
     [StaticConstructorOnStartup]
-    static class PsycImpriPatc
-    {
-        static PsycImpriPatc()
+    static class ImprisonmentPatch
+  {
+        static ImprisonmentPatch()
         {
             var harmony = HarmonyInstance.Create("com.dninemfive.psychologyimprisonmentpatch");
             harmony.PatchAll(Assembly.GetExecutingAssembly());

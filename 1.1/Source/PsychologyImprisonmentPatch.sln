@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 19
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsychologyImprisonmentPatch", "PsychologyImprisonmentPatch\PsychologyImprisonmentPatch.csproj", "{64DC2ECA-1FC5-4B22-8C89-BB61F96ED8D2}"

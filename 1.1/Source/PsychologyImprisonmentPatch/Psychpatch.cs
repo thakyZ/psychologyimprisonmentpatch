@@ -5,7 +5,7 @@ using System;
 using System.Reflection;
 using Verse;
 
-namespace PsychologyImprisonmentPatch
+namespace NekoBoiNick.PsychologyImprisonmentPatch
 {
   [StaticConstructorOnStartup]
   class Main
