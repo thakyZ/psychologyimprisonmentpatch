@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 	<identifier>Psychology Imprisonment Patch</identifier>
-	<version>1.1.1</version>
-	<dependencies>
-		<li>Harmony</li>
-		<li>Community.Psychology.UnofficialUpdate</li>
-	</dependencies>
+	<version>1.1.2</version>
+	<dependencies />
 	<incompatibleWith />
 	<loadAfter>
-		<li>Harmony</li>
+		<li>brrainz.harmony</li>
 		<li>Community.Psychology.UnofficialUpdate</li>
 	</loadAfter>
-	<suggests>
-	</suggests>
+	<suggests />
 	<manifestUri>https://raw.githubusercontent.com/thakyZ/psychologyimprisonmentpatch/master/About/Manifest.xml</manifestUri>
 	<downloadUri>https://github.com/thakyZ/psychologyimprisonmentpatch/releases</downloadUri>
 </Manifest>

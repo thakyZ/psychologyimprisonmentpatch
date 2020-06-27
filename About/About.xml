@@ -14,17 +14,4 @@
     <li>Community.Psychology.UnofficialUpdate</li>
   </loadAfter>
 	<incompatibleWith />
-  <modDependencies>
-		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-		</li>
-    <li>
-      <packageId>Community.Psychology.UnofficialUpdate</packageId>
-			<displayName>[1.1] Psychology (unofficial)</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2016263135</steamWorkshopUrl>
-    </li>
-  </modDependencies>
 </ModMetaData>
