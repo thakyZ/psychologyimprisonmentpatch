@@ -6,3 +6,5 @@ obj/
 !1.1/Assemblies/PsychologyImprisonmentPatch.dll
 !1.0/Assemblies/PsychologyImprisonmentPatch.dll
 !1.0/Assemblies/0Harmony.dll
+dist/
+*.dll
